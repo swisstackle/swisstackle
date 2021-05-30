@@ -15,7 +15,7 @@ Future (big) project ideas:
  
  However, once I completed the necessary course work at my university, I will immediately tackle both projects. Both projects are very similar in nature and therefore can be developed simultanously without problems.
  
- - Working for Neuralink and combining FunctionalPatterns with it. Long-Long-Long term goal and highly dependend on how Neuralink develops in the near future.
+ - Working for Neuralink and combining FunctionalPatterns with it. Long-Long-Long term goal and highly dependend on how Neuralink develops in the near future. Im also hoping that when this technology matures (10-30 yrs down the road), that there will be some kind of programming API for it, so that I maybe not even have to work for Neuralink in order to combine Functional Patterns and Neuralink. But we'll see; it's all speculative.
 
 <!---
 swisstackle/swisstackle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
