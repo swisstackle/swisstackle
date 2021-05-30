@@ -6,7 +6,7 @@
 - 📫 How to reach me: alainsch@buffalo.edu
 
 Current projects:
-- https://github.com/users/swisstackle/projects/2
+- https://github.com/swisstackle?tab=projects
 
 Future (big) project ideas:
  - Software to analyze gait cycle mechanics in a way that Functionl Patterns (functionalpatterns.com) does it (via Computer Vision).
