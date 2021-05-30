@@ -13,7 +13,7 @@ Future (big) project ideas:
  - Software for an Augmented Reality Headset and Smartphone to analyze Functional Patterns Exercises via Computer Vision to see if the exercise is being executed properly.
  These two projects are out of scope currently, because I will have to study Computer Vision first; and before I study Computer Vision, I'll have to learn the math associated with it (i.e Linear Algebra and Probability Theory). Fortunately my university has a good Computer Vision course. 
  
- However, once I completed the necessary course work at my university, I will immediately tackle both projects.
+ However, once I completed the necessary course work at my university, I will immediately tackle both projects. Both projects are very similar in nature and therefore can be developed simultanously without problems.
  
  - Working for Neuralink and combining FunctionalPatterns with it. Long-Long-Long term goal and highly dependend on how Neuralink develops in the near future.
 
