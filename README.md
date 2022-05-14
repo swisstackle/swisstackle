@@ -15,4 +15,4 @@ members to contribute to the organization
 
 https://github.com/swisstackle/football_marketplace/tree/phase3
 
-Looking for an internship for Fall 2022, Spring 2023 or Summer 2023.
+Looking for an internship for Spring 2023 or Summer 2023.
