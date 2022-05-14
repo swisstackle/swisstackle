@@ -1,14 +1,18 @@
-- 👋 Hi, I’m Alain
-- 👀 I’m interested in math, augmented/virtual reality/computer Vision, as well as Brain Computer Interfaces 
-- 🌱 I’m currently finishing my BS in Computer Science (Spring 2022) and preparing for my math minor and masters.
-- 🌱 I’m currently learning Unity and virtual reality programming; As well as getting better at math so that my math minor goes smoothly.
-- 💞️ I’m looking to collaborate on my latest project: An offensive line (virtual reality) simulator that helps young offensive linemen (american football) to enhance their awarness and reaction against defensive movement: https://github.com/users/swisstackle/projects/2
-- 📫 How to reach me: alainsch@buffalo.edu
+* International division 1 student athlete (BSc Computer Science, minor in mathematics) from Switzerland who plans to stay in the United States after graduation.
+* Has received his one and only chance to play American football in the U.S in 2018 from New Mexico Military Institute and 
+* Has earned a full scholarship to the University at Buffalo three semesters later. Current starter on the offensive line.
+* Has a set of interesting and scalable computer science projects.
+* Does not orient his learning process around “passions” but is passioned about whatever he has to learn to solve the problem at hand. Is driven by the possibility of a positive outcome so much that daily tedious and boring processes to get to the outcome are not seen as a problem.
+* Wants to contribute to society through the development of technology.
 
-Current projects:
-- https://github.com/swisstackle?tab=projects
+Currently working on the following projects:
 
-<!---
-swisstackle/swisstackle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Decentralized marketplace for football teams or companies (CSE426 class): Solidity, Truffle, ReactJS, NodeJS: The aim is to increase the amount of teamwork and teaching between coworkers or players. 
+I came up with the idea that every player can create his own services or products that other players can buy with and only 
+with tokens. That way, players are forced to contribute to the team because selling services is the only way 
+to earn tokens, and having tokens is the only way to get help and teaching from others. It forces team
+members to contribute to the organization
+
+https://github.com/swisstackle/football_marketplace/tree/phase3
+
+Looking for an internship for Fall 2022, Spring 2023 or Summer 2023.
