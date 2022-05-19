@@ -1,9 +1,8 @@
 * International division 1 student athlete (BSc Computer Science, minor in mathematics) from Switzerland who plans to stay in the United States after graduation.
-* Has received his one and only chance to play American football in the U.S in 2018 from New Mexico Military Institute and 
-* Has earned a full scholarship to the University at Buffalo three semesters later. Current starter on the offensive line.
-* Has a set of interesting and scalable computer science projects.
-* Does not orient his learning process around “passions” but is passioned about whatever he has to learn to solve the problem at hand. Is driven by the possibility of a positive outcome so much that daily tedious and boring processes to get to the outcome are not seen as a problem.
-* Wants to contribute to society through the development of technology.
+* Received his one and only chance to play American football in the U.S in 2018 from New Mexico Military Institute and 
+* Earned a full scholarship to the University at Buffalo three semesters later. Current starter on the offensive line.
+* Looking for an internship for Spring 2023 or Summer 2023.
+* Graduating Spring 2023.
 
 Currently working on the following projects:
 
@@ -15,6 +14,6 @@ members to contribute to the organization
 
 https://github.com/swisstackle/football_marketplace/tree/phase3
 
-Looking for an internship for Spring 2023 or Summer 2023.
 
-Graduating Spring 2023.
+
+
