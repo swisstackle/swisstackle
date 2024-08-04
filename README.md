@@ -1,5 +1,3 @@
- ** Authorized to work in the US and open for new opportunities. **
- 
 * IT professional with experience as a Software Developer and Project Leader.
 * Skilled in backend and frontend development, focusing on the .NET stack.
 * Highly skilled in automated testing.
